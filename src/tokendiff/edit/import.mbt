@@ -1,0 +1,2 @@
+///|
+typealias @token.MbtToken
