@@ -1,0 +1,8 @@
+{
+    "import": [
+        "moonbitlang/parser/parsing/syntax",
+        "moonbitlang/parser/parsing/syntax_types",
+        { "path": "Yoorkin/prettyprinter", "alias": "pp" }
+        
+    ]
+}
